@@ -1,0 +1,86 @@
+
+Oct- 31 - 2022
+----
+----
+----
+
+Nov 01-
+
+Nov - 02
+
+
+
+Nov -3 - 2022
+Worked on JSQuest03, JSQuest04, JsQuest05, JSQuest06... I did not complete JsQuest07 ex03 due to power outage in my area.
+-----
+To complete JsQuest07 from yesterday , to work on mySpaceship and my moving Box realtime
+----
+none
+
+Nov -3-2022
+I completed JSQuest07, I created a group and added a member to completed my moving Box realtime, I started mySpaceship, My Levenshtein, my CSS is Easy
+----
+To complete to work on mySpaceship, My Levenshtein, my CSS is Easy
+----
+none
+
+Nov - 7- 2022
+I was workind on my_spaceship.js, All effort to run it through node.js.. it shows the result as the same. However, gandalf did not pass the code
+----
+To complete My Spaceship, My Css Is Easy I, My Levenshtein
+----
+gandalf did not pass my spaceship. It was showing "Not Tested"
+
+Nov 8 -2022
+I could not submit the code yesterday. I had network challenges and the doCode was not responding so I left it to avoid too many junk in the memory
+----
+If my_spaceship still did not pass by gandalf, I will submit it like tghat and move on with the next tasks, My Css Is Easy I, My Levenshtein
+---
+Not Tested, I feel It ay be due to network issues 
+
+Nov -9-2022
+Completed the my_spaceship.js .. gandalf finally accepted my solution when I figured I was return object instaed of string
+----
+to work on My Css Is Easy I, My Levenshtein completely and submit my solution
+---
+none
+
+Nov-10-2022
+Completed my CSS is Easy and git push, Started My Levenshtein\
+---
+To complete My Levenshtein, my bouncing box and git push
+----
+none
+
+Nov -11-2022
+I completed My Levenshtein.js and submitted. I also started my bouncing box, my first backend
+----
+To try and complete my bouncing box, my first backend and submitted
+----
+none
+
+Nov - 14 - 2022
+Still on my Bouncing Box and My first Backend
+----
+Get more resources on how to complete my Bouncing Box and My first Backend
+----
+none
+
+Nov - 15-2022
+Completed my bouncing box and submitted my first README, hence the onbording is 100%
+----
+To complete my first backend and register for season 01
+---
+none
+
+Nov -16-2022
+Started my first backend, read nodejs and express documentation for understanding of the backend
+----
+Try to complete my first backend
+----
+none
+
+
+
+
+

@@ -1,0 +1,54 @@
+body {
+    margin: 0px !important;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.container .section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    text-transform: uppercase;
+}
+
+#header {
+    background-color: #00B7EB;
+}
+
+#hero {
+    background-color: #FF0000;
+}
+
+#content {
+    background-color: #00FF00;
+}
+
+#sidebar {
+    background-color: #800080;
+}
+
+#footer {
+    background-color: #444444;
+}
+
+@media(min-width: 640px) {
+    .container .section {
+        height: 25vh;
+    }
+
+    #content,
+    #sidebar {
+        width: 50%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .double {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
